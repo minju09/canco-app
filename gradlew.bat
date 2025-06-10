@@ -1,2 +1,2 @@
 @echo off
-echo Gradle wrapper executed
+echo Running gradle wrapper
