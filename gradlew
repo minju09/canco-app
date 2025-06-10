@@ -1,2 +1,2 @@
 #!/bin/sh
-echo 'Running gradle wrapper'
+echo 'gradlew executed'
